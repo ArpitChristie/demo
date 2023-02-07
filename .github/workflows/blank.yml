@@ -1,4 +1,4 @@
-name: Apple-IOS_CI-CD
+name: Apple-IOS_CI-CD_demo
 
 on:
   push:
